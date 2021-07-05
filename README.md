@@ -9,7 +9,8 @@ In this project, all the relevant packages for analysis and model building were 
     2. pandas
     3. seaborn
     4. matplotlib
-    5. RandomForestRegressor
+    5. sklearn
+    6. RandomForestRegressor
  
 
 

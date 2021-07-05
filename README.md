@@ -31,7 +31,7 @@ I will try to answer this question by having a deep understanding of the questio
     3. Can we predict the price of a listing?     
     
 ### Results Summary
-A detailed analysis and results summary can be found in my Jupyter notebook **Boston and Seattle Airbnb Analysis.ipynb** and my [blog post](https://medium.com/p/4be7230a01fb/edit).
+A detailed analysis and results summary can be found in my Jupyter notebook **Boston and Seattle Airbnb Analysis.ipynb** and my [blog post](https://medium.com/@bokeke_37284/boston-and-seattle-airbnb-analysis-4be7230a01fb).
 
 
 ### Acknowledgment

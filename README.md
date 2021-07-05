@@ -28,7 +28,7 @@ I will try to answer this question by having a deep understanding of the questio
 
     1. What factors affect the listing prices the most in both cities?
     2. How does prices differ between Boston and Seattle?
-    3. Can we predict the prices of a listing?     
+    3. Can we predict the price of a listing?     
     
 ### Results Summary
 A detailed analysis and results summary can be found in my Jupyter notebook **Boston and Seattle Airbnb Analysis.ipynb** and my [blog post](https://medium.com/p/4be7230a01fb/edit).

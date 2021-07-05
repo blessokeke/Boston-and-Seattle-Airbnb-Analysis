@@ -34,4 +34,4 @@ A detailed analysis and results summary can be found in my Jupyter notebook **Bo
 
 
 ### Acknowledgment
-Many thanks to Udacity for giving me an opportunity to try out real world problems. Thanks to the Data Scientists who have provided insights to me through Kaggle, Github and StackOverflow.
+Many thanks to Udacity for giving me an opportunity to try out real world problems. Thanks to the Data Scientists who have inspired and provided insights to me through Kaggle, Github and StackOverflow.

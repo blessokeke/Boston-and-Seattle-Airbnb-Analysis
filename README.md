@@ -26,8 +26,8 @@ The data files contains the following main components:
 My main goal in this project is to understand which city is AirBNB giving customers a better experiences with respect to cost and living experiences between Boston and Seattle and predict the price of a listing using the Boston dataset.
 I will try to answer this question by having a deep understanding of the questions below:
 
-    1. What factors affect the listing price the most in both cities?
-    2. How does prices that differ between Boston and Seattle?
+    1. What factors affect the listing prices the most in both cities?
+    2. How does prices differ between Boston and Seattle?
     3. Can we predict the prices of a listing?     
     
 ### Results Summary

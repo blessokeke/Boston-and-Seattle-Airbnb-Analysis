@@ -4,7 +4,7 @@
 Airbnb, Inc. was founded by Brian Chesky, Nathan Blecharczyk and Joe Gebbia in 2008. It is an American company headquartered in San Francisco, California and operates as an online marketplace primarily for homestays vacation rentals, lodging and tourism activities.
 The company has increased in growth and now services its members world wide and well as having its platform accessible via website and mobile app. Airbnb makes its profits by receiving commission from each booking and doesn’t own any of their listed properties.
 
-I will be using the [Boston AirNNB](https://www.kaggle.com/airbnb/boston) and [Seattle AirBnB](https://www.kaggle.com/airbnb/seattle/data) data for the analysis in this project. I would also be following the **CRISP-DM (Cross-Industry Standard Process for Data Mining)** process as shown in my Jupyter notebook.
+I will be using the [Boston AirBNB](https://www.kaggle.com/airbnb/boston) and [Seattle AirBnB](https://www.kaggle.com/airbnb/seattle/data) data for the analysis in this project. I would also be following the **CRISP-DM (Cross-Industry Standard Process for Data Mining)** process as shown in my Jupyter notebook.
 
 ### Installation
 In this project, all the relevant packages for analysis and model building were used. Some of them are the following :
